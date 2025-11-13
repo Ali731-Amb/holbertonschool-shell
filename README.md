@@ -1,4 +1,4 @@
-![Shell Basics Banner](/assets/Holberton.png)
+!![Shell Basics Banner](/assets/Holberton.png)
 
 # Holberton School – Shell Projects (Generic README)
 
